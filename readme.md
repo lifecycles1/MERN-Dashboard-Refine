@@ -6,3 +6,5 @@
 6. add "type": "module" to package.json,
 7. npm install cloudinary cors dotenv express mongoose nodemon
 8. rename "test" in package.json to "start" : "nodemon index"
+9. server deployed to render.com
+10. client npm run build and deployed manually to netlify with a redirect file added to the build folder https://refine-dashboardd.netlify.app/
